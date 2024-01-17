@@ -77,9 +77,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 0.0009
-    - Interval: 19.5
-    - Sharp: 1.63
+    - Height: 0.0133
+    - Interval: 86.1
+    - Sharp: 3.33
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
