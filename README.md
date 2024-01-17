@@ -4,7 +4,7 @@
 
 src フォルダをUnityで開きます。
 
-![結果画像1](result_1.gif)
+![結果画像1](https://github.com/masaki0204/PGWS4_5_vertex_tex_fetch/assets/91834307/250f18ea-179f-4401-94a6-0966e087cef6)
 
 ![結果画像2](result_2.gif)
 
@@ -12,12 +12,10 @@ src フォルダをUnityで開きます。
 
 ![結果画像](result.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](Shader3.png)
 
 ## 自分なりに変更した点
--
--
--
+前回作ったノイズを合わせて頂点をたくさん生成できるようにしました。
 
 
 ## 進め方
